@@ -3,7 +3,7 @@
 <ul>
   <li> Oscar Larios </li>
   <li> Rodrigo Davalos </li>
-  <li> Neto Bernal </li>
+  <li> Ernesto Bernal </li>
 </ul>
 
 ## Introducción 
