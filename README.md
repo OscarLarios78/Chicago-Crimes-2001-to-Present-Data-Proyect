@@ -1,4 +1,11 @@
 # Chicago-Crimes-2001-to-Present-Data-Proyect
+## Autores
+<ul>
+  <li> Oscar Larios </li>
+  <li> Rodrigo Davalos </li>
+  <li> Neto Bernal </li>
+</ul>
+
 ## Introducción 
 Se diseñó un sistema de gestión de datos sobre el dataset de crímenes en Chicago con el propósito de almacenar, administrar y analizar de forma efectiva la información relacionada con actividades delictivas. Este informe se enfoca en la normalización de los datos además de una serie de consultas con fines estadísticos. <br> <br>
 <ul>
