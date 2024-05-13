@@ -44,7 +44,7 @@ Schema: <br>
   <tr>
     <td>Columnas: location_id (primary key), block, location_description</td>
     <td>Columnas: offense_id (primary key), iucr, primary_type, description</td>
-    <td>Columnas: id (primary key), case_number, date, last_update, arrest, domestic, district, ward, community_area, location_id, offense_id</td>
+    <td>Columnas: id (primary key), case_number, date, last_update, codigo_fbi, arrest, domestic, district, ward, community_area, location_id, offense_id</td>
   </tr>
 </table>
 
